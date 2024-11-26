@@ -1,0 +1,2 @@
+- Crear la base de datos LabMonografia
+- abrir consola de administrador de paquetes y correr update-database

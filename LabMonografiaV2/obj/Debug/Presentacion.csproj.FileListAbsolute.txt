@@ -1,0 +1,9 @@
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\bin\Debug\LabMonografiaV2.exe.config
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\bin\Debug\LabMonografiaV2.exe
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\bin\Debug\LabMonografiaV2.pdb
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\obj\Debug\LabMonografiaV2.Properties.Resources.resources
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\obj\Debug\LabMonografiaV2.exe
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\LabMonografiaV2\obj\Debug\LabMonografiaV2.pdb

@@ -1,0 +1,17 @@
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\bin\Debug\net6.0\CapaNegocio.runtimeconfig.json
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\CapaNegocio.genruntimeconfig.cache
+C:\Users\Irving Payan\source\repos\LabMonografiaV2\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
